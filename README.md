@@ -1,2 +1,2 @@
 # AF-Bot-Tweaks
-A mod for the sandbox survival game Factorio!
+> Changes various aspects surrounding logistics systems, mostly buffs though. Doubles roboport charging pads. Roboports reveal the chunks that are covered by their construction area as long as it is powered.
