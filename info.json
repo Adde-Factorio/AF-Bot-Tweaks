@@ -1,0 +1,11 @@
+{
+	"name":"Bot_Tweaks",
+	"version":"1.0.0",
+	"factorio_version":"0.18",
+	"title":"¬ Bot Tweaks",
+	"author":"Darcy Manoel",
+	"contact":"darcman99@gmail.com",
+	"homepage":"https://github.com/Darcman99/Factorio-Mods",
+	"description":"Changes various aspects surrounding logistics systems, mostly buffs though.\n    ¬ Doubles roboport charging pads.\n    ¬ Roboports reveal the chunks that are covered by their construction area as long as it is powered.",
+	"dependencies":["base>=0.18.10","stdlib >= 0.0.1"]
+}
